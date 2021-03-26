@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606039160 source:e:\programming\kitchen\main.cpp
+	<iostream>
+	<iomanip>
+
